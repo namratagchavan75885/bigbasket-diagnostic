@@ -1,0 +1,32 @@
+product_id,product_name,category,unit_price,supplier
+P001,Apple 1kg,Fruits & Vegetables,120,Fresh Farms
+P002,Banana 1kg,Fruits & Vegetables,55,Fresh Farms
+P003,Tomato 1kg,Fruits & Vegetables,45,Fresh Farms
+P004,Potato 2kg,Fruits & Vegetables,70,Agro Supplies
+P005,Onion 1kg,Fruits & Vegetables,60,Agro Supplies
+P006,Milk 1L,Dairy & Eggs,62,Daily Dairy Co
+P007,Curd 500g,Dairy & Eggs,45,Daily Dairy Co
+P008,Paneer 200g,Dairy & Eggs,95,Daily Dairy Co
+P009,Butter 100g,Dairy & Eggs,60,Daily Dairy Co
+P010,Eggs 12pc,Dairy & Eggs,90,Daily Dairy Co
+P011,Potato Chips 100g,Snacks & Beverages,35,SnackWorld
+P012,Biscuits 200g,Snacks & Beverages,30,SnackWorld
+P013,Orange Juice 1L,Snacks & Beverages,110,Beverage Hub
+P014,Cola 750ml,Snacks & Beverages,55,Beverage Hub
+P015,Tea 250g,Snacks & Beverages,140,Beverage Hub
+P016,Premium Face Cream 50g,Personal Care,0,Beauty Essentials
+P017,Shampoo 340ml,Personal Care,220,Beauty Essentials
+P018,Bath Soap 4pc,Personal Care,130,Beauty Essentials
+P019,Toothpaste 150g,Personal Care,105,Beauty Essentials
+P020,Hand Wash 250ml,Personal Care,85,Beauty Essentials
+P021,Dishwash Liquid 500ml,Household Essentials,115,HomeEssentials Traders
+P022,Laundry Detergent 2kg,Household Essentials,260,HomeEssentials Traders
+P023,Floor Cleaner 1L,Household Essentials,150,HomeEssentials Traders
+P024,Toilet Cleaner 500ml,Household Essentials,125,HomeEssentials Traders
+P025,Garbage Bags 30pc,Household Essentials,90,HomeEssentials Traders
+P026,Bread 400g,Bakery,45,BakeHouse
+P027,Brown Bread 400g,Bakery,55,BakeHouse
+P028,Croissant 2pc,Bakery,90,BakeHouse
+P029,Cake 500g,Bakery,250,BakeHouse
+P030,Muffins 4pc,Bakery,120,BakeHouse
+P031,Body Lotion 200ml,Personal Care,180,Beauty Essentials
